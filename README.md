@@ -38,7 +38,11 @@ Connected Power BI to Synapse.
 Built interactive dashboards for insights & analytics.
 
 Key Features
+
 ✅ Dynamic Pipelines → Handles multiple datasets automatically
+
 ✅ Bronze-Silver-Gold Architecture → Ensures data quality & structure
+
 ✅ Efficient Storage & Querying → Uses Parquet format & External Tables
+
 ✅ End-to-End Integration → ADF → Azure Data Lake → Databricks → Synapse → Power BI
